@@ -24,7 +24,7 @@
 
 2. ESP32 පරිපථයට මේ ප්‍රෝග්‍රෑමය ස්ථාපිත කරන්න නම් **Flash Download Tool** කියන පරිගණක වැඩසටන අවශ්‍යය වෙනවාවෙනවා. එය [espressif.com](https://www.espressif.com/en/support/download/other-tools) පිටුවෙන් රූපයේ පෙන්වා ඇති ආකාරයට බාගත කර ගන්න.
 
-    ![download flash tool](docs/assets/fdtpage.png)
+    ![download flash tool](docs/assets/FDTpage.png)
 
 3.  මෙසේ බාගත වෙන zip ෆයිල් එකත් සුදුසු තැනකට unzip කර ගන්න. ඉන්පසු එහි තියෙන Flash Download Tool එක විවෘත කර ගන්න. 
 
