@@ -36,7 +36,7 @@
 
 5. දැන් ඔබේ ESP32 පරිපථය USB වයරයකින් පරිගණකයට සම්බන්ධ කර ගන්න. Windows Device Manger වෙත ගොස් ඔබේ ESP32 පරිපථයේ COM Port අංකය බලා ගන්න.
 
-     ![flash tool initial config](docs/assets/comport.png)
+     ![find com port](docs/assets/comport.png)
 
 6. Flash Download Tool වැඩසටහනේ පහත දැක්වෙන අයුරින් සැකසුම් කර ගන්න.
 
